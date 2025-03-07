@@ -25,8 +25,8 @@
 
 Сгруппируйте итоговый датафрейм по странам и рассчитайте среднюю численность населения в городах, в которых вы отдыхали	
 
-Гугл-форма (https://forms.gle/Phqny3vm1xVdgUWf9)
+Гугл-форма https://forms.gle/Phqny3vm1xVdgUWf9
 
-Гугл-таблица (https://docs.google.com/spreadsheets/d/1yb523A6PB4vaE9aeor-z_z9saotUp43TzGAFdqdcUjM/edit?usp=sharing)
+Гугл-таблица https://docs.google.com/spreadsheets/d/1yb523A6PB4vaE9aeor-z_z9saotUp43TzGAFdqdcUjM/edit?usp=sharing
 
-Гугл-colab (https://colab.research.google.com/drive/1dIfIrylf7VeoG4ynHcQvgklBPZ8YFGiC)
+Google Colaboratory https://colab.research.google.com/drive/1dIfIrylf7VeoG4ynHcQvgklBPZ8YFGiC
