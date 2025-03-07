@@ -13,4 +13,4 @@
 9	При помощи SQL и Python получите датафрейм с названием города и его населением из таблицы city.	
 10	При помощи Python соедините данные из выгруженного csv файла (пункт 8) и таблицы с населением города
 Сгруппируйте итоговый датафрейм по странам и рассчитайте среднюю численность населения в городах, в которых вы отдыхали	
-
+[<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccdGU3eQghMQ7mF7IDooRBf6-juyp3Zfs9uTSacqk_-PKkMA/viewform?embedded=true" width="640" height="1022" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
